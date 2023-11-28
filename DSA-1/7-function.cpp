@@ -1,11 +1,7 @@
 //function is set of code which perform something for you.
 //function are used to increase readability.
 //function are used to use same code multiple time.
-//tyeps of function:
-//void-which doesnot returns anything
-//return
-//parameterised 
-//non parameterised
+ b
 
 #include<bits/stdc++.h>
 using namespace std;
